@@ -19,3 +19,13 @@ Engine features:
 - lua auto-reload support
 - bunch of other usefull stuff. see sources.
 
+## Usage
+```
+mkdir build
+cd build
+cmake ..
+cd ..
+make run
+
+# use wasd to move. arrow keys to scroll the map.
+```
