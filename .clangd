@@ -1,0 +1,6 @@
+If:
+  PathMatch: .*/survive/.*\.c
+Diagnostics:
+  UnusedIncludes: Strict
+  Includes:
+    IgnoreHeader: Python\.h
